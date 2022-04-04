@@ -10,6 +10,7 @@ public class Dec_5 {
     public static void main(String[] args) {
 
         System.out.println("T5");
+        System.out.println("Dec_5");
 
     }
 }
