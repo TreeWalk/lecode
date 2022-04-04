@@ -12,6 +12,8 @@ public class Dec_5 {
         System.out.println("T5");
         System.out.println("Dec_5");
         System.out.println("master test");
+        System.out.println("hot-fix test");
+
     }
 }
 class Solution1218 {
