@@ -10,6 +10,7 @@ public class t7 {
 	        Cousumer1 cou = new Cousumer1(shop1);
 	        new Thread(pro).start();
 	        new Thread(cou).start();
+		System.out.println("test T7");
 	       	       
 	}
 
