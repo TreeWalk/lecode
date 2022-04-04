@@ -13,6 +13,7 @@ public class Dec_5 {
         System.out.println("Dec_5");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
 
     }
 }
